@@ -1,0 +1,15 @@
+
+
+
+.name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 35px;
+}
+
+.prenom{
+    color: #17377E;
+    font-size: 24px;
+    margin-left: 4px;
+}

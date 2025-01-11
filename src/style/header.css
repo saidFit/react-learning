@@ -1,0 +1,52 @@
+
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 98%;
+   margin-left: auto;
+   margin-right: auto;
+    
+}
+
+.header .logo{
+    width: 60px;
+    height: 60px;
+}
+
+.header .profile{
+    background-color: #e4e2e2;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+    padding: 10px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.parent-download-profile{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.download-btn{
+    background-color: #17387ed3;
+    color: #ffff;
+    padding: 10px 15px;
+    border-radius: 13px;
+    border: none !important;
+    
+}
+.download-btn:hover{
+    background-color: #17377E;
+    cursor: pointer;
+    transition: all;
+}
